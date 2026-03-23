@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+langchain-openai
+faiss-cpu
+sentence-transformers
+gdown
+python-dotenv
+transformers
+accelerate
+pandas
